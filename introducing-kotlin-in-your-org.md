@@ -275,7 +275,7 @@ Our team, one application, No overhead
 
 ## Find your heroes inside 
 
-* Who is a bog fan of the language?
+* Who is a big fan of the language?
 * Who can benefit from it?
 * Who is excited about trying new things?
 
