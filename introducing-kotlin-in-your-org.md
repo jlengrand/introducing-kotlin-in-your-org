@@ -2,7 +2,7 @@ footer: @jlengrand
 slidenumbers: true
 
 # Introducing Kotlin in your organization
-
+## The easy way
 ---
 
 ## s/Kotlin/*/g
@@ -31,12 +31,12 @@ slidenumbers: true
 ## This talk
 
 * A look at Kotlin today
-* Tips on how to convince management and colleagues
+* Tips on how to convince colleagues and **management**
 
 
 ---
 
-## How it started for us
+## How it started
 
 * Team Lead at ING
 * No greenfield, existing applications
@@ -73,7 +73,7 @@ slidenumbers: true
 ## How old is Kotlin?
 
 * Kotlin : 10 years old (July 2011)
-* Java 26 years 
+* Java : 26 years 
 * Go : 12 years old
 * Rust : 11 years
 
@@ -81,9 +81,9 @@ slidenumbers: true
 
 ## Some numbers
 
-* \> 4.8 Million users last year
-* 4th most loved programming language (Stack Overflow Developer Survey 2020)
-* 2nd most popular language on the JVM before Scala and Clojure (Snyk developer survey 2020)
+* **\> 4.8 Million** users last year
+* 4th most loved programming language 
+* **2nd most popular language on the JVM** 
 * Taught in 45 of the top 200 universities
 
 
@@ -96,7 +96,7 @@ slidenumbers: true
 
 * 2019 : Google chooses Kotlin first for Android
 * 2020 : Creation of the Kotlin Foundation
-* Aug. 2021: AWS announces idiomatic Kotlin SDK
+* 2021 : AWS announces idiomatic Kotlin SDK
 * 2021 : Kotlin multiplatform comes out of Beta
 
 <!-- https://en.wikipedia.org/wiki/Kotlin_(programming_language) -->
@@ -212,9 +212,10 @@ slidenumbers: true
 
 ## Convincing colleagues
 
+
 ---
 
-## Invest in your own knwonledge
+## Invest in your own knowledge
 
 * Be the Subject expert in the company (as a team)
 * Help solve other people's questions
@@ -250,12 +251,14 @@ Our team, one application, No overhead
 
 ---
 
-## Report on the experiment! 
+## Report! 
 
-* Communicate
+* Communicate about progress
 * Verbalize next steps
+* Improve in public
 
 ![right fit](images/goforth.jpeg)
+
 ---
 
 ## Use numbers
@@ -264,7 +267,7 @@ Our team, one application, No overhead
 * But make it real and relevant
 * Internal numbers count!
 
-**-> Speak their language!**
+**-> Adapt your language and objectives!**
 
 ![right fit](images/kotlinsecond.png)
 
@@ -333,12 +336,16 @@ Our team, one application, No overhead
 
 ---
 
+
 # Thank you!
 
 ---
 
+## Big thanks to Hielke de Vries for the help
+
 ---
+
 
 # Sources : 
 
-* https://github.com/jlengrand/climate-change-quickie/
+* https://github.com/jlengrand/introducing-kotlin-in-your-org
