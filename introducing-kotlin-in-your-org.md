@@ -9,7 +9,6 @@ slidenumbers: true
 
 ---
 
-
 # 👋👋
 
 <br/>
@@ -33,6 +32,7 @@ slidenumbers: true
 * A look at Kotlin today
 * Tips on how to convince colleagues and **management**
 
+![right](images/handyman-tool-belt.jpeg)
 
 ---
 
@@ -88,7 +88,7 @@ slidenumbers: true
 
 
 <!-- https://www.jetbrains.com/lp/devecosystem-2021/kotlin/ -->
-<!-- https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/ -->
+<!-- https://snyk.io/jvm-ecosystem-report-2021/ -->
 
 ---
 
@@ -186,7 +186,7 @@ slidenumbers: true
 
 # Let's do it!
 
-## Technically, it's simple
+## The first 80%
 
 ---
 
@@ -208,10 +208,19 @@ slidenumbers: true
 
 # Now the real work begins
 
+## The last 80% 
+
+---
+
+## We have much convincing to do
+
+* Convincing colleagues
+* Convincing security / compliance
+* Convincing management
+
 ---
 
 ## Convincing colleagues
-
 
 ---
 
@@ -233,6 +242,21 @@ slidenumbers: true
 * Onboarding sessions
 
 ![right fit](images/aoc.jpeg)
+
+---
+
+## Convincing Security / Compliance
+
+---
+
+## Convincing Security / Compliance
+
+
+* Ride on the JVM Wave
+* Don't bring problems, but solutions
+* Become part of the team, destroy the walls
+* Own your choices
+* _Listen_
 
 ---
 
@@ -263,13 +287,14 @@ Our team, one application, No overhead
 
 ## Use numbers
 
-* Show success
+* Show success 
 * But make it real and relevant
 * Internal numbers count!
 
 **-> Adapt your language and objectives!**
+**-> There is no wrong question!**
 
-![right fit](images/kotlinsecond.png)
+![right fit](images/kotlin-second-2.png)
 
 ---
 
@@ -279,7 +304,7 @@ Our team, one application, No overhead
 * Who can benefit from it?
 * Who is excited about trying new things?
 
-![right fit](images/hero.jpeg)
+![right fit](images/tech-hero.png)
 
 ---
 
@@ -293,11 +318,6 @@ Our team, one application, No overhead
 
 ---
 
-![fit](images/ximedes.png)
-
-<!-- https://www.ximedes.com/2018-03-25/kotlin-a-new-tool-in-the-box/ -->
----
-
 ## Find authority
 
 * Certification
@@ -308,11 +328,25 @@ Our team, one application, No overhead
 
 ---
 
-## Don't be a Zealot <3
+## Create your own reality
 
 ---
 
-# Some fun questions
+![fit](images/ximedes.png)
+
+<!-- https://www.ximedes.com/2018-03-25/kotlin-a-new-tool-in-the-box/ -->
+---
+
+## And don't forget! Don't be a Zealot <3
+
+---
+
+## There will be another fight tomorrow
+
+
+---
+
+# Some fun questions I've had
 
 ---
 
@@ -349,3 +383,4 @@ Our team, one application, No overhead
 # Sources : 
 
 * https://github.com/jlengrand/introducing-kotlin-in-your-org
+* https://snyk.io/jvm-ecosystem-report-2021/
