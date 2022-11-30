@@ -24,6 +24,23 @@ slidenumbers: true
 
 ![right](images/baby.jpeg)
 
+
+---
+
+# 👋👋
+
+<br/>
+
+- Hielke
+- Scala Developer
+- Ex-pentester
+
+<img src="images/doobie_logo.svg" alt="drawing" width="100"/>
+<img src="images/ZIO_logo.png" alt="drawing" width="300"/>
+<img src="images/typelevel_logo.png" alt="drawing" width="100"/>
+
+<br/>
+
 ---
 
 
@@ -237,9 +254,18 @@ slidenumbers: true
 
 ## Get others onboard! 
 
-* Advent of Code
-* Cohorts
-* Onboarding sessions
+* Objectively better in many cases - easy sell?
+* Many colleagues are fine with Java
+* Find a way to bring in under attention
+
+
+---
+
+## Get others onboard! 
+
+* Advent of Code - we organized it
+* Communication channels Kotlin promotion
+* Workfloor chat about AoC puzzles
 
 ![right fit](images/aoc.jpeg)
 
@@ -251,12 +277,28 @@ slidenumbers: true
 
 ## Convincing Security / Compliance
 
+* All about being safe, not losing money
+* Scary - new programming language
+* Convincing Scala took ages
 
-* Ride on the JVM Wave
-* Don't bring problems, but solutions
-* Become part of the team, destroy the walls
-* Own your choices
-* _Listen_
+
+---
+
+## Convincing Security / Compliance
+
+* Does it run in Fortify? No
+* Does it run in any security tool? No
+* How can we support it?
+
+
+---
+
+## Convincing Security / Compliance
+
+* Prove that Kotlin is safe
+* Bring out the AoC contenders
+* Facts
+* Lobby
 
 ---
 
