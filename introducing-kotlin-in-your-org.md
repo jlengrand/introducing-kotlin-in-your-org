@@ -31,9 +31,9 @@ slidenumbers: true
 
 <br/>
 
-- Hielke
+- Hielke de Vries
 - Scala Developer
-- Ex-pentester
+- former pentester
 
 <img src="images/doobie_logo.svg" alt="drawing" width="100"/>
 <img src="images/ZIO_logo.png" alt="drawing" width="300"/>
@@ -287,8 +287,8 @@ slidenumbers: true
 ## Convincing Security / Compliance
 
 * Does it run in Fortify? No
-* Does it run in any security tool? No
-* How can we support it?
+* Is it supported by any of our tools? No
+* How do you expect us to support it?
 
 
 ---
