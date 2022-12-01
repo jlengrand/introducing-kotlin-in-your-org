@@ -32,8 +32,9 @@ slidenumbers: true
 <br/>
 
 - Hielke de Vries
-- Scala Developer
-- former pentester
+- Currently Scala Developer
+- Former pentester
+- When not full-FP -> Kotlin
 
 <img src="images/doobie_logo.svg" alt="drawing" width="100"/>
 <img src="images/ZIO_logo.png" alt="drawing" width="300"/>
@@ -182,10 +183,10 @@ slidenumbers: true
                 .collect(Collectors.toList());
     }-->
 
-<!--     fun processStrings(strings: List<String>): List<String> {
-        return strings
-            .filter { it == "Hello" || it == "World" }
-            .map { "$it processed" }
+<!--    
+fun processStrings(strings: List<String>): List<String> = strings
+    .filter { it == "Hello" || it == "World" }
+    .map { "$it processed" }
     }-->
 
 ---
@@ -256,15 +257,16 @@ slidenumbers: true
 
 * Objectively better in many cases - easy sell?
 * Many colleagues are fine with Java
-* Find a way to bring in under attention
+* Find a way to bring Kotlin under attention
 
 
 ---
 
 ## Get others onboard! 
 
-* Advent of Code - we organized it
-* Communication channels Kotlin promotion
+* Advent of Code - invite all engineers
+* Why don't you try a new language?
+* Promote Kotlin during AoC
 * Workfloor chat about AoC puzzles
 
 ![right fit](images/aoc.jpeg)
@@ -290,15 +292,16 @@ slidenumbers: true
 * Is it supported by any of our tools? No
 * How do you expect us to support it?
 
-
 ---
 
 ## Convincing Security / Compliance
 
 * Prove that Kotlin is safe
+* Using less well-known tools; FindSecBugs
 * Bring out the AoC contenders
 * Facts
 * Lobby
+* Be helpful, give solutions
 
 ---
 
