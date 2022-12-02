@@ -9,7 +9,6 @@ slidenumbers: true
 
 ---
 
-
 # 👋👋
 
 <br/>
@@ -25,6 +24,19 @@ slidenumbers: true
 
 ![right](images/baby.jpeg)
 
+
+---
+
+# 👋👋
+
+
+- Hielke de Vries
+- Currently Scala Developer
+- Former pentester
+- When not full-FP -> Kotlin
+
+![right](images/hielke.png)
+
 ---
 
 
@@ -33,6 +45,7 @@ slidenumbers: true
 * A look at Kotlin today
 * Tips on how to convince colleagues and **management**
 
+![right](images/handyman-tool-belt.jpeg)
 
 ---
 
@@ -70,7 +83,17 @@ slidenumbers: true
 
 ---
 
+## Which one of those is the youngest language?
+
+* Kotlin
+* Go
+* Rust
+* Java
+
+---
+
 ## How old is Kotlin?
+
 
 * Kotlin : 10 years old (July 2011)
 * Java : 26 years 
@@ -88,7 +111,7 @@ slidenumbers: true
 
 
 <!-- https://www.jetbrains.com/lp/devecosystem-2021/kotlin/ -->
-<!-- https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/ -->
+<!-- https://snyk.io/jvm-ecosystem-report-2021/ -->
 
 ---
 
@@ -165,10 +188,10 @@ slidenumbers: true
                 .collect(Collectors.toList());
     }-->
 
-<!--     fun processStrings(strings: List<String>): List<String> {
-        return strings
-            .filter { it == "Hello" || it == "World" }
-            .map { "$it processed" }
+<!--    
+fun processStrings(strings: List<String>): List<String> = strings
+    .filter { it == "Hello" || it == "World" }
+    .map { "$it processed" }
     }-->
 
 ---
@@ -186,7 +209,7 @@ slidenumbers: true
 
 # Let's do it!
 
-## Technically, it's simple
+## The first 80%
 
 ---
 
@@ -208,10 +231,19 @@ slidenumbers: true
 
 # Now the real work begins
 
+## The last 80% 
+
+---
+
+## We have much convincing to do
+
+* Convincing colleagues
+* Convincing security / compliance
+* Convincing management
+
 ---
 
 ## Convincing colleagues
-
 
 ---
 
@@ -228,11 +260,53 @@ slidenumbers: true
 
 ## Get others onboard! 
 
-* Advent of Code
-* Cohorts
-* Onboarding sessions
+* Objectively better in many cases - easy sell?
+* Many colleagues are fine with Java
+* Find a way to bring Kotlin under attention
+
+
+---
+
+## Get others onboard! 
+
+* Advent of Code - invite all engineers
+* Why don't you try a new language?
+* Promote Kotlin during AoC
+* Workfloor chat about AoC puzzles
 
 ![right fit](images/aoc.jpeg)
+
+---
+
+## Convincing Security / Compliance
+
+---
+
+## Convincing Security / Compliance
+
+* All about being safe, not losing money
+* Scary - new programming language
+* Convincing Scala took ages
+
+
+---
+
+## Convincing Security / Compliance
+
+* Does it run in Fortify? No
+* Is it supported by any of our tools? No
+* How do you expect us to support it?
+
+---
+
+## Convincing Security / Compliance
+
+* Prove that Kotlin is safe
+* Using less well-known tools; FindSecBugs
+* Bring out the AoC contenders
+* Facts
+* Lobby
+* Be helpful, give solutions
 
 ---
 
@@ -261,15 +335,51 @@ Our team, one application, No overhead
 
 ---
 
+## Use the system : Tech Radar!
+
+* Which problems does it solve?
+* Why is it in the current ring?
+* Clear defintion and scope
+
+![right fit](images/tech-radar-blog-inline-2.jpg)
+
+---
+
+## Use the system : Tech Radar!
+
+
+![inline 90%](images/techradar-3.png)
+
+---
+
+## Use the system : ADRs!
+
+* Architecture Decision Records!
+
+![right fit](images/elastic.webp)
+
+
+---
+
+## What is the second most used JVM language in the world?
+
+* Scala
+* Java
+* Kotlin 
+* Groovy
+
+---
+
 ## Use numbers
 
-* Show success
+* Show success 
 * But make it real and relevant
 * Internal numbers count!
 
 **-> Adapt your language and objectives!**
+**-> There is no wrong question!**
 
-![right fit](images/kotlinsecond.png)
+![right fit](images/kotlin-second-2.png)
 
 ---
 
@@ -279,7 +389,7 @@ Our team, one application, No overhead
 * Who can benefit from it?
 * Who is excited about trying new things?
 
-![right fit](images/hero.jpeg)
+![right fit](images/tech-hero.png)
 
 ---
 
@@ -293,11 +403,6 @@ Our team, one application, No overhead
 
 ---
 
-![fit](images/ximedes.png)
-
-<!-- https://www.ximedes.com/2018-03-25/kotlin-a-new-tool-in-the-box/ -->
----
-
 ## Find authority
 
 * Certification
@@ -308,11 +413,36 @@ Our team, one application, No overhead
 
 ---
 
-## Don't be a Zealot <3
+## Be visible
+
+* Speak
+* Write
+* Shout ...
+
+![right fit](images/fosdem.png)
+
 
 ---
 
-# Some fun questions
+## Create your own reality
+
+---
+
+![fit](images/ximedes.png)
+
+<!-- https://www.ximedes.com/2018-03-25/kotlin-a-new-tool-in-the-box/ -->
+---
+
+## And don't forget! Don't be a Zealot <3
+
+---
+
+## There will be another fight tomorrow
+
+
+---
+
+# Some fun questions I've had
 
 ---
 
@@ -341,11 +471,9 @@ Our team, one application, No overhead
 
 ---
 
-## Big thanks to Hielke de Vries for the help
-
----
 
 
 # Sources : 
 
 * https://github.com/jlengrand/introducing-kotlin-in-your-org
+* https://snyk.io/jvm-ecosystem-report-2021/
