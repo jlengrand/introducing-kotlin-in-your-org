@@ -29,18 +29,13 @@ slidenumbers: true
 
 # 👋👋
 
-<br/>
 
 - Hielke de Vries
 - Currently Scala Developer
 - Former pentester
 - When not full-FP -> Kotlin
 
-<img src="images/doobie_logo.svg" alt="drawing" width="100"/>
-<img src="images/ZIO_logo.png" alt="drawing" width="300"/>
-<img src="images/typelevel_logo.png" alt="drawing" width="100"/>
-
-<br/>
+![right](images/hielke.png)
 
 ---
 
@@ -88,7 +83,17 @@ slidenumbers: true
 
 ---
 
+## Which one of those is the youngest language?
+
+* Kotlin
+* Go
+* Rust
+* Java
+
+---
+
 ## How old is Kotlin?
+
 
 * Kotlin : 10 years old (July 2011)
 * Java : 26 years 
@@ -330,6 +335,41 @@ Our team, one application, No overhead
 
 ---
 
+## Use the system : Tech Radar!
+
+* Which problems does it solve?
+* Why is it in the current ring?
+* Clear defintion and scope
+
+![right fit](images/tech-radar-blog-inline-2.jpg)
+
+---
+
+## Use the system : Tech Radar!
+
+
+![inline 90%](images/techradar-3.png)
+
+---
+
+## Use the system : ADRs!
+
+* Architecture Decision Records!
+
+![right fit](images/elastic.webp)
+
+
+---
+
+## What is the second most used JVM language in the world?
+
+* Scala
+* Java
+* Kotlin 
+* Groovy
+
+---
+
 ## Use numbers
 
 * Show success 
@@ -370,6 +410,17 @@ Our team, one application, No overhead
 * Titles, ....
 
 ![right fit](images/gde.png)
+
+---
+
+## Be visible
+
+* Speak
+* Write
+* Shout ...
+
+![right fit](images/fosdem.png)
+
 
 ---
 
@@ -420,9 +471,6 @@ Our team, one application, No overhead
 
 ---
 
-## Big thanks to Hielke de Vries for the help
-
----
 
 
 # Sources : 
